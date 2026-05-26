@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-node-2026043013303161657D">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v3.0.2">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>Los instrumentos de evaluación | PROYECTO: DESCUBIRNEDO MI CIUDAD</title>
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"> </script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css">
+<script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+</head>
+<body class="exe-export exe-web-site" lang="es">
+<script>document.body.className+=" js"</script><div class="exe-content exe-export pre-js siteNav-hidden"> <nav id="siteNav"> <ul> <li> <a href="../index.html" class="main-node no-ch">PROYECTO: DESCUBRIENDO MI CIUDAD</a>
+</li>
+<li class="current-page-parent"> <a href="../html/presentacion-y-descripcion.html" class="daddy">Presentación y descripción</a><ul> <li class="current-page-parent"> <a href="../html/proteccion-de-datos-personales-y-garantias-de-derechos-digitales.html" class="daddy"> Protección de datos personales y garantías de derechos digitales </a><ul> <li class="current-page-parent"> <a href="../html/la-descripcion-del-producto-final-que-debera-elaborar-el-alumnado.html" class="daddy">La descripción del producto final que deberá elaborar el alumnado </a><ul> <li class="current-page-parent"> <a href="../html/herramientas-de-curacion-de-contenidos.html" class="daddy"> Herramientas de curación de contenidos</a><ul> <li class="current-page-parent"> <a href="../html/la-linea-temporal.html" class="daddy">La línea temporal</a><ul> <li class="current-page-parent"> <a href="../html/los-criterios-de-evaluacion.html" class="daddy">Los criterios de evaluación </a><ul> <li class="active"> <a href="../html/los-instrumentos-de-evaluacion.html" class="active daddy">Los instrumentos de evaluación</a><ul> <li> <a href="../html/autoria.html" class="no-ch">Autoría</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></nav><main id="2026043013303161657D" class="page"> <header id="header-2026043013303161657D" class="main-header"> <div class="package-header">
+<h1 class="package-title">PROYECTO: DESCUBIRNEDO MI CIUDAD</h1>
+<p class="package-subtitle">Primer trimestre</p>
+</div>
+<div class="page-header"><h2 class="page-title">Los instrumentos de evaluación</h2></div></header><div id="page-content-2026043013303161657D" class="page-content"> <article id="202605021004072196XG" class="box"> <header class="box-head no-icon"> <h1 class="box-title">Instrumentos de evaluación</h1>
+<button class="box-toggle box-toggle-on" title="Ocultar/Mostrar contenido"> <span>Ocultar/Mostrar contenido</span></button></header><div class="box-content"> <div id="20260502100407214B6H" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json"><div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><a href="https://docs.google.com/document/d/1tdEMcCXaDDBUdH54RMd52PglGA9cXRJU/edit#heading=h.gjdgxs" title="Instrumentos de evaluación" id="link_7">Instrumentos de evaluación</a></p>
+<p><img src="../content/resources/20260502100407214B6H/ChatGPT_Image_2_may_2026_10_09_53.png" title="Instrumentos de evaluación" width="1024" height="1536" alt="Instrumentos de evaluación"></p><p class="clearfix"></p></div>
+            </div></div></div></div>
+</div></article>
+</div></main><div class="nav-buttons"> <a href="../html/los-criterios-de-evaluacion.html" title="Anterior" class="nav-button nav-button-left"> <span>Anterior</span></a><a href="../html/autoria.html" title="Siguiente" class="nav-button nav-button-right"> <span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">creative commons: attribution - share alike 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
